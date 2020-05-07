@@ -1,6 +1,6 @@
-# Sistem Pendukung Keputusan Penentuan Identifikasi Varietas Ubi Jalar
+# SPK Penentuan Identifikasi Varietas Ubi Jalar
 
-SPK Penentuan Identifikasi Varietas Ubi Jalar merupakan tugas project untuk memenuhi persyaratan kelulusan pada mata kuliah Kecerdasan Buatan. Sistem ini dibangun dengan metode Decision Tree Algoritma C4.5.
+Sistem Pendukung Keputusan (SPK) Penentuan Identifikasi Varietas Ubi Jalar merupakan tugas project untuk memenuhi persyaratan kelulusan pada mata kuliah Kecerdasan Buatan. Sistem ini dibangun dengan metode Decision Tree Algoritma C4.5.
 
 ### Screenshot
 <pre>
@@ -13,7 +13,7 @@ SPK Penentuan Identifikasi Varietas Ubi Jalar merupakan tugas project untuk meme
 * [x] Melihat dan menyimpan hasil identifikasi ke dalam database mysql.
 
 ### Demo
-Link website : Coming Soon
+Link website : Coming Soon <br>
 Untuk database, username dan password, hub : triagung128@gmail.com
 
 ## Author
