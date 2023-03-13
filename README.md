@@ -19,5 +19,5 @@ https://t.me/triagung128 atau triagung128@gmail.com.
 
 ## Author
 **Tri Agung Susilo** <br />
-Dont for get to follow and ★ star
+Dont for get to follow and ★ star.
 
